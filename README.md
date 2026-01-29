@@ -62,7 +62,7 @@
         <h1>Nama Lengkap</h1>
         <div class="info">
           <p>Email: nama@email.com</p>
-          <p>No HP: 08xxxxxxxxxx</p>
+          <p>No HP: 08979768187</p>
           <p>Alamat: Kota, Provinsi</p>
         </div>
       </div>
